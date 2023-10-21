@@ -57,7 +57,7 @@ To store the data, we used the RDF (Resource Description Framework) data format 
 
 ## Installation Instructions
 
-The scripts for developing the model can be found in **TO BE ADDED TO GITHUB**
+The notebook that implements the graph and creates the graph RDF file can be found in `tcga_rdf.ipynb`
 
 To install the dependencies required, you can run the following command (ideally within a virtual Python environment like Conda or virtualenv) in your terminal:
 
@@ -65,7 +65,7 @@ To install the dependencies required, you can run the following command (ideally
 
 (Note that the current code available was developed using Python 3.10 with rdflib 7.0.0 - if the latest version you are using breaks these, you can pin your Python version and the rdflib version rather than installing the latest one). 
 
-You will then need to provide your API key for BioOntology in the script **TO BE ADDED TO GITHUB**. To get such an API key, make an account and login to BioPortal. You will find the API key in your account settings.
+You will then need to provide your API key for BioOntology in the script `tcga_rdf.ipynb`. To get such an API key, make an account and login to BioPortal. You will find the API key in your account settings.
 
 
 Note: this project was executed using a dataset from TCGA which _already_ provided a converted MAF file, rather than a VCF. However, it is straightforward to convert VCF to MAF files, and you can do so using [vcf2maf](https://github.com/mskcc/vcf2maf). We have not included this as part of the pipeline yet, but future plans include doing so.
