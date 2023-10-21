@@ -12,7 +12,7 @@ The overall goal of this project is to find a way to integrate or structure pati
 
 ## Dataset
 
-As described in the flowchart above, we used the [COAD-CPTAC dataset](https://www.cbioportal.org/study/summary?id=coad_cptac_2019) as the proof-of-concept dataset. In theory, the pipeline should broadly be applicable to other similarly-structured datasets, though components of it may need to be changes (particularly which concept the patients are linked to).
+As described in the flowchart above, we used the [COAD-CPTAC dataset](https://www.cbioportal.org/study/summary?id=coad_cptac_2019) as the proof-of-concept dataset. In theory, the pipeline should broadly be applicable to other similarly-structured datasets, though components of it may need to be changed (particularly which concept the patients are linked to and potentially some formatting around the loading of the data). The rest of the framework should be broadly portable, though, including the querying of the databases for unifying identifiers.
 
 
 ## Graph Construction
