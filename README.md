@@ -31,7 +31,7 @@ Concepts contained within the graph include:
 |   Concept   |   Name                                          |   Number |
 |-------------|-------------------------------------------------|----------|
 |   Node Type |   Sample                                        |   93    |
-|   Node Type |   Gene                                          |   TBD    |
+|   Node Type |   Gene                                          |   3302    |
 |   Node Type |   Cancer Type                                   |   1    |
 |  Edge Type  | isCancerTypeOf (connects Sample -> Cancer Type) |  93     |
 |  Edge Type  | hasHugoSymbol (connects Sample -> Gene)         |  15285     |
