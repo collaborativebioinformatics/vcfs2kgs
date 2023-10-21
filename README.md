@@ -66,3 +66,6 @@ To install the dependencies required, you can run the following command (ideally
 (Note that the current code available was developed using Python 3.10 with rdflib 7.0.0 - if the latest version you are using breaks these, you can pin your Python version and the rdflib version rather than installing the latest one). 
 
 You will then need to provide your API key for BioOntology in the script **TO BE ADDED TO GITHUB**. To get such an API key, make an account and login to BioPortal. You will find the API key in your account settings.
+
+
+Note: this project was executed using a dataset from TCGA which _already_ provided a converted MAF file, rather than a VCF. However, it is straightforward to convert VCF to MAF files, and you can do so using [vcf2maf](https://github.com/mskcc/vcf2maf). We have not included this as part of the pipeline yet, but future plans include doing so.
