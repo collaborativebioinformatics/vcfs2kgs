@@ -32,10 +32,12 @@ Concepts contained within the graph include:
 
 ### External Resources Used
 
-[BioPortal](https://www.bioontology.org/) 
-Mondo Disease Ontology [through BioOntology](https://bioportal.bioontology.org/ontologies/MONDO) and [through their direct release](https://github.com/monarch-initiative/mondo)
-[ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) (note - this is used indirectly as the COAD-CPTAC dataset already provides these annotations)
-[HUGO Gene Nomenclature Committee Annotations](https://www.genenames.org/) to provide unique identifiers for genes
+- [BioPortal](https://www.bioontology.org/)
+- Mondo Disease Ontology
+  - [through BioOntology](https://bioportal.bioontology.org/ontologies/MONDO) and
+  - [through their direct release](https://github.com/monarch-initiative/mondo)
+- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) (note - this is used indirectly as the COAD-CPTAC dataset already provides these annotations)
+- [HUGO Gene Nomenclature Committee Annotations](https://www.genenames.org/) to provide unique identifiers for genes
 
 
 
