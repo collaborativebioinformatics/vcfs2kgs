@@ -5,6 +5,13 @@ This is a project that was started during the October 2023 Data Management for T
 The overall goal of this project is to find a way to integrate or structure patient genomics information stored in VCFs as a cohort into a knowledge graph.
 
 
+## Justification
+
+We have reached the stage of being able to produce massive datasets and communicate insights rapidly. However, current clinical practice and research often struggles to keep up with this information, especially in the context of particular patients, in large part due to the ever-continuing evolution of knowledge and the quantity of that knowledge. To better equip researchers and clinicians, it is necessary to begin building frameworks that integrate our existing knowledge with patient-specific information at a cohort and individual level.
+
+Disclaimer: This project is NOT at a production stage and should not be used to replace or augment clinical decisions. 
+
+
 ## Visual Workflow
 
 ![vcfs2kgs_flowchart](https://github.com/collaborativebioinformatics/vcfs2kgs/assets/12094168/95dadb07-1e87-493f-a5e8-ece8b02ad224)
