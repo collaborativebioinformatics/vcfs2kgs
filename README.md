@@ -28,13 +28,13 @@ The underlying relationships within the graph are to be constructed based on coh
 
 Concepts contained within the graph include:
 
-|   Concept   |   Name                                          |   Number |  Unique |
-|-------------|-------------------------------------------------|----------|---------|
-|   Node Type |   Sample                                        |   TBD    |  TBD    |
-|   Node Type |   Gene                                          |   TBD    |  TBD    |
-|   Node Type |   Cancer Type                                   |   TBD    |  TBD    |
-|  Edge Type  | isCancerTypeOf (connects Sample -> Cancer Type) |  TBD     |  TBD    |
-|  Edge Type  | hasHugoSymbol (connects Sample -> Gene)         |  TBD     |  TBD    |
+|   Concept   |   Name                                          |   Number |
+|-------------|-------------------------------------------------|----------|
+|   Node Type |   Sample                                        |   93    |
+|   Node Type |   Gene                                          |   TBD    |
+|   Node Type |   Cancer Type                                   |   TBD    |
+|  Edge Type  | isCancerTypeOf (connects Sample -> Cancer Type) |  TBD     |
+|  Edge Type  | hasHugoSymbol (connects Sample -> Gene)         |  TBD     |
 
 
 ### External Resources Used
