@@ -64,3 +64,5 @@ To install the dependencies required, you can run the following command (ideally
 `python -m pip install rdflib requests pandas`
 
 (Note that the current code available was developed using Python 3.10 with rdflib 7.0.0 - if the latest version you are using breaks these, you can pin your Python version and the rdflib version rather than installing the latest one). 
+
+You will then need to provide your API key for BioOntology in the script **TO BE ADDED TO GITHUB**. To get such an API key, make an account and login to BioPortal. You will find the API key in your account settings.
