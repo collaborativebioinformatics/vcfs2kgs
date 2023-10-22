@@ -4,6 +4,11 @@ This is a project that was started during the October 2023 Data Management for T
 
 The overall goal of this project is to find a way to integrate or structure patient genomics information stored in VCFs as a cohort into a knowledge graph.
 
+- **Team Members:**
+  - Chiao-Feng Lin (team lead)
+  - Rachit Kumar
+  - Soham Shirolkar 
+  - Aniket Naik
 
 ## Justification
 
